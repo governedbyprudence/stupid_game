@@ -1,0 +1,27 @@
+body{
+    
+}
+#road{
+    position: absolute;
+    top:40%;
+    
+    padding: 5%;
+}
+#block{
+    height: 40px;
+    width: 20px;
+    background-color: green;
+    position: absolute;
+    top:49%;
+    left:60%;
+    transition: all 3s linear;
+}
+#player{
+    height: 40px;
+    width: 25px;
+    top:49%;
+    left:10%;
+    position: absolute;
+    background-color: blue;
+    transition : all 0.2s linear;
+}
